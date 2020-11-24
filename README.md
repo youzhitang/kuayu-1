@@ -17,12 +17,12 @@
     
 5. 设置 hosts
 
-  用管理页权限打开记事本，打开 C:\Windows\System32\drivers\etc，文件类型调成所有文件，打开hosts，添加
-  ```
-  127.0.0.1 qq.com
-  127.0.0.1 tang.com
-  ```
-  注意！不要修改hosts文件原内容！
+     用管理页权限打开记事本，打开 C:\Windows\System32\drivers\etc，文件类型调成所有文件，打开hosts，添加
+     ```
+     127.0.0.1 qq.com
+     127.0.0.1 tang.com
+     ```
+     注意！不要修改hosts文件原内容！
   
 6. 打开两个页面 qq.com:8888/index.html 和 frank.com:9999/index.html
 
